@@ -1,6 +1,6 @@
 # Password Manager Application
 
-This is a simple command-line password manager application written in C++. It allows you to securely store and manage your passwords for different apps and websites. The passwords are encrypted before being stored in a MySQL database.
+This is a simple command-line password manager application written in C++. It allows you to securely store and manage your passwords for different apps and websites. The passwords are encrypted before being stored in a MySQL database. It is fully CRUD enabled.
 
 ## Features
 
